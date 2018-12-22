@@ -1,6 +1,21 @@
 # Effective Work
 
-Improve working habits.
+You are trying really hard but never seem to hit the mark
+where you are in a consistent flow zone. You are trying
+hard but doesn't look like you are meeting expectations.
+
+Effective-Work is a tool that helps you track when you achieve
+flow zone and aims to use machine learning to predict your
+ideal working conditions and give you recommendations
+on how to plan your day.
+
+You can use the information generated on Effective-Work to
+plan your day and get the maximum out of it. You can schedule
+meetings and read emails in time when you are generally not
+in the peak productivity state. You can target tasks that
+are high impact to the flow zones and get perform well at
+those. Effective-Work helps boost your productivity to the
+next level!
 
 ## Prerequisites
 
