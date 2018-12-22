@@ -12,7 +12,7 @@
                  [clj-time "0.15.0"]]
   :plugins [[lein-ring "0.12.4"]
             [lein-kibit "0.1.6"]]
-  :ring {:handler sessions-compojure.handler/app}
+  :ring {:handler effective-work.handler/app}
   :profiles
   {:dev {:dependencies [[javax.servlet/servlet-api "2.5"]
                         [ring/ring-mock "0.3.2"]]}})

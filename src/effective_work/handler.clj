@@ -1,9 +1,9 @@
 (ns effective-work.handler
   (:require [compojure.core :refer :all]
             [compojure.route :as route]
-            [sessions-compojure.json-utils :as sj]
-            [sessions-compojure.dao :as dao]
-            [sessions-compojure.request-utils :as ru]
+            [effective-work.json-utils :as sj]
+            [effective-work.dao :as dao]
+            [effective-work.request-utils :as ru]
             [clojure.tools.logging :as log]
             [ring.middleware.defaults :refer [wrap-defaults site-defaults]]
             [ring.util.response :as resp]))
