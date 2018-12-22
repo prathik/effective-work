@@ -1,4 +1,4 @@
-(ns sessions-compojure.request-utils
+(ns effective-work.request-utils
   (:require [clojure.tools.logging :as log]
             [clojure.string :as str])
   (:import (java.text SimpleDateFormat)

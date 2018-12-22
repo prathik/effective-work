@@ -1,4 +1,4 @@
-(ns sessions-compojure.json-utils
+(ns effective-work.json-utils
   (:require [clojure.data.json :as json]
             [ring.middleware.defaults :refer [wrap-defaults site-defaults]])
   (:import (java.sql Timestamp Date)))

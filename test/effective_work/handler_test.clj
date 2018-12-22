@@ -1,4 +1,4 @@
-(ns sessions-compojure.handler-test
+(ns effective-work.handler-test
   (:require [clojure.test :refer :all]
             [ring.mock.request :as mock]
             [sessions-compojure.handler :refer :all]))

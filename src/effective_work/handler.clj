@@ -1,4 +1,4 @@
-(ns sessions-compojure.handler
+(ns effective-work.handler
   (:require [compojure.core :refer :all]
             [compojure.route :as route]
             [sessions-compojure.json-utils :as sj]

@@ -1,6 +1,6 @@
-# sessions-compojure
+# Effective Work
 
-FIXME
+Improve working habits.
 
 ## Prerequisites
 

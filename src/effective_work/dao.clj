@@ -1,4 +1,4 @@
-(ns sessions-compojure.dao
+(ns effective-work.dao
   (:require [clojure.java.jdbc :as j]
             [clojure.tools.logging :as log]))
 
