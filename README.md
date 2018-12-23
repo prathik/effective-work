@@ -17,6 +17,14 @@ are high impact to the flow zones and get perform well at
 those. Effective-Work helps boost your productivity to the
 next level!
 
+## Milestones
+
+### Base feature
+
+* Apis to get user work habits
+* UI for user input
+* Models for recommendations
+
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
